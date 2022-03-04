@@ -1,0 +1,35 @@
+1. ค้นหาข้อมูลว่าแท็ก <!doctype> มีหน้าที่อะไร? (5 นาที)
+        Answer:
+            According to www.w3schools.com, the <!DOCTYPE> is NOT an HTML tag
+            but rather a "declaration" which tells the browser what type of document
+            to expect.
+            
+            It is worth noting that the <!DOCTYPE> declaration is NOT case sensitive so
+            <!DOCTYPE>, <!doctype>, or even <!dOctyPE> all have the same function.
+
+2. ถ้าอยากให้มี tooltip ใน tag นั้นต้องใช้ attribute ใด? (3นาที) *tooltip คือข้อความเล็กๆ ที่แสดงเมื่อเลื่อน mouse ไปวางบนบริเวณที่ระบุ
+        Answer:
+            There are ways to create tooltips. One of the easiest way is to use the HTML "title" attribute.
+
+            The "title" attribute can be used on any HTML document. It will validate on any HTML element.
+            However, it is not necessarily useful. (W3Schools n.d.)
+
+            The syntax for the "title" attribute is <element title="text"> where "text" is to be replaced by the
+            information to display when the mouse cursor moves over the element.
+
+3. แท็ก <b>, <i> ต่างจาก <strong>, <em> หรือไม่ อย่างไร? (5 นาที)
+        Answer:
+            The <b> and <i> tags only add style to the content inside them whereas the <strong> and <em> add
+            to the content both style and semantic importance which indicates that this section of text is
+            more important compared to the rest.
+
+4. หา tag ที่สามารถแสดงข้อความกลับหลังได้ เช่น โปรแกรมเมอร์ แสดงเป็น ร์อมเมรกแรปโ
+        Answer:
+            To display a text backwards, use the HTML BI-Directional Overide tag (aka. HTML <bdo> tag) by specifying
+            the text direction as dir="rtl" (right-to-left) in the <bro> tag.
+
+            Example: Using <bdo dir="rtl">โปรแกรมเมอร์</bdo> to display in the browser "ร์อมเมรกแรปโ".
+
+
+References:
+W3Schools n.d., HTML title Attribute, viewed 4 March 2022, <https://www.w3schools.com/tags/att_global_title.asp>
