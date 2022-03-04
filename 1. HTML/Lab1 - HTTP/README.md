@@ -5,4 +5,4 @@
          ทดสอบเข้า web: http://info.cern.ch/Proposal.html
          แล้วดูกระบวนการทำงานผ่าน Chrome Developer Tools - Networks
 4. Files:
-      Lab1 - screen shot.png
+      Lab1 - screen shot.PNG
