@@ -9,7 +9,7 @@
 
 2. ถ้าอยากให้มี tooltip ใน tag นั้นต้องใช้ attribute ใด? (3นาที) *tooltip คือข้อความเล็กๆ ที่แสดงเมื่อเลื่อน mouse ไปวางบนบริเวณที่ระบุ
         Answer:
-            There are ways to create tooltips. One of the easiest way is to use the HTML "title" attribute.
+            There are ways to create tooltips. One of the easiest ways is to use the HTML "title" attribute.
 
             The "title" attribute can be used on any HTML document. It will validate on any HTML element.
             However, it is not necessarily useful. (W3Schools n.d.)
