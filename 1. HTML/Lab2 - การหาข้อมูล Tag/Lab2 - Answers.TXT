@@ -26,7 +26,7 @@
 4. หา tag ที่สามารถแสดงข้อความกลับหลังได้ เช่น โปรแกรมเมอร์ แสดงเป็น ร์อมเมรกแรปโ
         Answer:
             To display a text backwards, use the HTML BI-Directional Overide tag (aka. HTML <bdo> tag) by specifying
-            the text direction as dir="rtl" (right-to-left) in the <bro> tag.
+            the text direction as dir="rtl" (right-to-left) in the <bdo> tag.
 
             Example: Use <bdo dir="rtl">โปรแกรมเมอร์</bdo> to display in the browser "ร์อมเมรกแรปโ".
 
