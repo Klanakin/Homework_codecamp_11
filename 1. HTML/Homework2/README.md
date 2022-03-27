@@ -8,7 +8,7 @@
                   3. upload ขึ้น github.io  
 
 - Files:
-      Instruction.png
+      https://Klanakin.github.io/codecampt11/Instruction.png
 
 - Links:
       https://klanakin.github.io/codecamp11/booking.html
