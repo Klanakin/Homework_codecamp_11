@@ -2,7 +2,7 @@
 - Name: Don Klanakin
 - Homework:
       Lab3: Form
-         1. ทำแบบฟอร์มสั่ง pizza ดังรูป  (https://opentechschool.github.io/python-flask/core/forms.html)
+         1. ทำแบบฟอร์มสั่ง pizza ดังรูป  ![Pizza ordering form](https://opentechschool.github.io/python-flask/core/forms.html)
 - Files:
       - index.html
       - style.css
