@@ -1,5 +1,5 @@
-Cohort: CodeCamp #11
+- Cohort: CodeCamp #11
 
-Course Commencement Date: February 28, 2022
+- Course Commencement Date: February 28, 2022
 
-Name: Don Klanakin, Mr.
+- Name: Don Klanakin, Mr.
