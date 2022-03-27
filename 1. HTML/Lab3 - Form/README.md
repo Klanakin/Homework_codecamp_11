@@ -8,5 +8,5 @@
       https://opentechschool.github.io/python-flask/core/forms.html
 
 - Files:
-      - index.html
-      - style.css
+      1. index.html
+      2. style.css
