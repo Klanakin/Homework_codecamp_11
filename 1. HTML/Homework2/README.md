@@ -8,7 +8,7 @@
                   3. upload ขึ้น github.io  
 
 - Files:
-      https://raw.githubusercontent.com/Klanakin/Homework_codecamp_11/main/1.%20HTML/Homework2/Instructions.png
+      ![Instructions](https://raw.githubusercontent.com/Klanakin/Homework_codecamp_11/main/1.%20HTML/Homework2/Instructions.png)
 
 - Links:
       https://klanakin.github.io/codecamp11/booking.html
