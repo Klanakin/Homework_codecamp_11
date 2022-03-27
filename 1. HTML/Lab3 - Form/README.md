@@ -6,7 +6,7 @@
                   1. ทำแบบฟอร์มสั่ง pizza ดังรูป
 
 - Files:
-      1. ทำแบบฟอร์มสั่ง pizza ดังรูป
+-      1. ทำแบบฟอร์มสั่ง pizza ดังรูป
 
 - Links:
       https://opentechschool.github.io/python-flask/core/forms.html
