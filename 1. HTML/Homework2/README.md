@@ -11,4 +11,4 @@
       Instruction.png
 
 - Links:
-      https://klanakin.github.io/codecamp11/homework/html/hw2/booking.html
+      https://klanakin.github.io/codecamp11/booking.html
